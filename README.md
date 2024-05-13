@@ -12,8 +12,10 @@ EDA
 
 Data Transformations
 
+Risks
+Inaccessibility of datasets: 
 
 Resources
-
-Risks
-
+How to cite a source: Author, A. (Year). Title of the data set (Version number) [Data set]. Publisher Name.
+1. Kumar, A. (2020). https://www.kaggle.com/datasets/singhakash/early-stage-diabetes-risk-prediction-datasets?resource=download&select=diabetes_data_upload.csv. Kaggle.
+   
