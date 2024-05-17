@@ -1,5 +1,5 @@
 # Weightloss-Drugs-and-Their-Impact-on-Diabetes
-A look a the impact of three of the top selling drugs for weight loss currently available, Ozempic, Wegovy and Mounjaro. A review of their differences and similarities. The effects these types of therapies cause. And the overall impact they are having in combating the epidemic of Diabetes in the United States.
+A look a the impact of four of the top selling drugs for weight loss currently available, Wegovy, Ozempic, Semaglutide and Zepbound. A review of their differences and similarities. The effects these types of therapies cause. And the overall impact they are having in combating the epidemic of Diabetes in the United States.
 
 Sprint 0 Deliverables ( See Google Drive)
 https://docs.google.com/document/d/1Qq7B4UZuYO--Y4lo7M5itMpAUHcQjah2tZRD1FOx5Q8/edit?usp=sharing
@@ -25,7 +25,17 @@ Prediabetes: People with prediabetes have blood glucose levels that are higher t
 
 Treatments
 
-In the past decade, the treatment of diabetes has seen significant advancements. The growing availability of different drug classes and agents, rising use of combination therapy, and evolving clinical guidance have fundamentally improved the outlook for people with this condition. However, there is still no cure for diabetes, but losing weight, eating healthy food, and being active can really help. Other things you can do to help include taking medicine as prescribed, getting diabetes self-management education and support, and making and keeping healthcare appointments.
+In the past decade, the treatment of diabetes has seen significant advancements. The growing availability of different drug classes and agents, rising use of combination therapy, and evolving clinical guidance have fundamentally improved the outlook for people with this condition. However, there is still no cure for diabetes, but losing weight, eating healthy food, and being active can really help. Other things you can do to help include taking medicine as prescribed, getting diabetes self-management education and support, and making and keeping healthcare appointments.injectable drugs: Wegovy, Ozempic, Semaglutide and Zepbound
+
+- Wegovy: Wegovy is a prescription medication used for weight loss in adults with obesity or overweight and weight-related medical problems. It is an injectable form of semaglutide, a glucagon-like peptide-1 (GLP-1) receptor agonist, that works by reducing appetite and slowing the rate of food passing through the body.
+
+- Ozempic: Ozempic, also known as semaglutide, is an injectable medication used to treat type 2 diabetes¹¹. It belongs to a class of drugs known as glucagon-like peptide-1 (GLP-1) receptor agonists and helps manage blood sugar levels in adults with type 2 diabetes, along with exercise and a healthy diet¹¹¹².
+
+- Semaglutide: Semaglutide is an antidiabetic medication used for the treatment of type 2 diabetes and an anti-obesity medication used for long-term weight management⁸. It is a peptide similar to the hormone glucagon-like peptide-1 (GLP-1), modified with a side chain, and can be administered by subcutaneous injection or taken orally⁸.
+
+- Zepbound: Zepbound, also known as tirzepatide, is a prescription drug used for weight loss in certain adults⁴. It is a glucose-dependent insulinotropic polypeptide (GIP) receptor and glucagon-like peptide-1 (GLP-1) receptor agonist, which works by decreasing appetite and slowing the movement of food from the stomach into the small intestine⁵.
+
+
 
 EDA
 
