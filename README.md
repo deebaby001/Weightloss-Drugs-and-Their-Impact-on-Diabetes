@@ -39,6 +39,65 @@ In the past decade, the treatment of diabetes has seen significant advancements.
 
 EDA
 
+Summary Statistics
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Age</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>count</th>
+      <td>520.000000</td>
+    </tr>
+    <tr>
+      <th>mean</th>
+      <td>48.028846</td>
+    </tr>
+    <tr>
+      <th>std</th>
+      <td>12.151466</td>
+    </tr>
+    <tr>
+      <th>min</th>
+      <td>16.000000</td>
+    </tr>
+    <tr>
+      <th>25%</th>
+      <td>39.000000</td>
+    </tr>
+    <tr>
+      <th>50%</th>
+      <td>47.500000</td>
+    </tr>
+    <tr>
+      <th>75%</th>
+      <td>57.000000</td>
+    </tr>
+    <tr>
+      <th>max</th>
+      <td>90.000000</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 Data Transformations
 
 Risks
