@@ -91,22 +91,14 @@ Summary Statistics
 </div>
 
 by Age (histogram)
-.dataframe tbody tr th {
-    vertical-align: top;
-}
 
-.dataframe thead th {
-    text-align: right;
-}
+![image](https://github.com/deebaby001/Weightloss-Drugs-and-Their-Impact-on-Diabetes/assets/14750340/b0fabe26-9002-442d-89be-7fdc903a0393)
+
 
 by Gender (bar)
-.dataframe tbody tr th {
-    vertical-align: top;
-}
 
-.dataframe thead th {
-    text-align: right;
-}
+![image](https://github.com/deebaby001/Weightloss-Drugs-and-Their-Impact-on-Diabetes/assets/14750340/d9a6f2bb-d76e-4892-b311-1e1541bfc30d)
+
 
 by Age + Gender (boxplot)
 
