@@ -107,6 +107,29 @@ by Age + Gender (boxplot)
 
 Data Transformations
 
+Null values
+
+Age                   0
+Gender                0
+Polyuria              0
+Polydipsia            0
+sudden weight loss    0
+weakness              0
+Polyphagia            0
+Genital thrush        0
+visual blurring       0
+Itching               0
+Irritability          0
+delayed healing       0
+partial paresis       0
+muscle stiffness      0
+Alopecia              0
+Obesity               0
+class                 0
+dtype: int64
+
+
+
 Risks
 Inaccessibility of datasets: This is due to HIPPA and other medically related requirements as mandated by the holding companies of much of the research data that exists. 
 
