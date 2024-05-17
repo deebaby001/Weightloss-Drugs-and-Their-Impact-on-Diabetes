@@ -90,6 +90,29 @@ Summary Statistics
 </table>
 </div>
 
+by Age (histogram)
+.dataframe tbody tr th {
+    vertical-align: top;
+}
+
+.dataframe thead th {
+    text-align: right;
+}
+
+by Gender (bar)
+.dataframe tbody tr th {
+    vertical-align: top;
+}
+
+.dataframe thead th {
+    text-align: right;
+}
+
+by Age + Gender (boxplot)
+
+![image](https://github.com/deebaby001/Weightloss-Drugs-and-Their-Impact-on-Diabetes/assets/14750340/33aff619-c067-4679-a22a-59ceedde566c)
+
+
 Data Transformations
 
 Risks
