@@ -1,5 +1,6 @@
 
-"C:\Users\deema\Downloads\weightloss drugs multiple types.png"
+![weightloss drugs multiple types](https://github.com/deebaby001/Weightloss-Drugs-and-Their-Impact-on-Diabetes/assets/14750340/36ea2eb4-258b-4a62-8406-8b5747e25997)
+
 
 # Weightloss-Drugs-and-Their-Impact-on-Diabetes
 
