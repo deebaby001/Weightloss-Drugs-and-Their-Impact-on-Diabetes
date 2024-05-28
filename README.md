@@ -1,4 +1,8 @@
+
+"C:\Users\deema\Downloads\weightloss drugs multiple types.png"
+
 # Weightloss-Drugs-and-Their-Impact-on-Diabetes
+
 In this study we will take a look a the impact of four of the top selling injectable, prescriptiongm drugs for weight loss currently available: Wegovy, Ozempic, Semaglutide and Zepbound. I will review of their differences and similarities and the effects these types of therapies cause. Finally, in consideration of ith the the overall impact these are having in combating the epidemic of Diabetes in the United States.
 
 Sprint Deliverables
