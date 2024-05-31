@@ -16,3 +16,4 @@ print (df.info())
 
 #LOAD
 #Load data to database using (to_sql) command
+#Add back to S3 bucket / directory
