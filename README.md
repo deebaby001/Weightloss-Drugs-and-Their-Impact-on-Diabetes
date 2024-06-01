@@ -17,15 +17,18 @@ https://docs.google.com/document/d/1qbFLLd-yNodoMxrycrm29KxqD2oDXEzEa2yswZDDFw4/
 Sprint 2: Deliverable (See Google Drive)
 https://docs.google.com/document/d/1uHtWrQUwLL61G3zWSVwopTAL_J_QkDWGv13rA4EK07E/edit?usp=sharing
 
-===================================================================
+=============================
 Overall Purpose of this Study
-In this study, I am investigating the relationship between the sales and types of injectable weghtloss drugs and their relationship to comorbid factors of the disease, diabetes. The therapeutic causalities and strenghts and differences.
+In this study, I am investigating the relationship between the curent sales and projected sales of several types of injectable weghtloss drugs and their relationship to comorbid factors effecting the disease, diabetes. 
+
+Introductory Overview
 
 Diabetes 
 
 The disease symptomology, Diabetes, also known as Diabetes Mellitus, is a chronic disease that occurs when your blood glucose, also called blood sugar, is too high. Glucose is your body’s main source of energy, which comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose get into your cells to be used for energy. In diabetes, your body doesn’t make enough—or any—insulin, or doesn’t use insulin properly. As a result, glucose stays in your blood and doesn’t reach your cells, leading to various health problems.
 
-Forms of Diabetes
+Forms / Types of Diabetes
+
 Type 1 Diabetes: This is an autoimmune condition where your body's immune system attacks and destroys the cells in your pancreas that make insulin. People with type 1 diabetes need to take insulin every day to stay alive.
 
 Type 2 Diabetes: In this type, your body doesn’t use insulin well and can’t keep blood sugar at normal levels. It is the most common type of diabetes.
@@ -34,7 +37,17 @@ Gestational Diabetes: This type develops in some people during pregnancy. Most o
 
 Prediabetes: People with prediabetes have blood glucose levels that are higher than normal but not high enough to be diagnosed with type 2 diabetes.
 
-Treatments
+Comorbidity Factors of Diabetes
+Obesity: This is termed as any person having a BMI over 28%
+Dysilpidema: This refers to a symptomology where there is an instability of hormones. Specifically, these that most effect weight: 
+Hypertension: The term, hypertension, is just another word for, High Blood Pressure.
+
+Comorbidity Factors and Diabetes
+
+In 2015, the Centers for Disease Control, piloted a study on 33 factors that were labeled the Behavioral Risk Factor Surveillance System (BRFSS). For the purposes of this study, I will be utilizing a subset of this originally documented dataset. The original study conducted in 2015 (CDC) called the Behavioral Risk Factor Surveillance System (BRFSS), a telephone survey that begun in 1984 and is conducted annually by the CDC. Each year, over 400,000 people in the United States are surveyed concerning health-related behaviors, chronic health conditions and the use of preventative services.
+https://www.medicalnewstoday.com/articles/321844
+
+Treatments for Diabetes
 
 In the past decade, the treatment of diabetes has seen significant advancements. The growing availability of different drug classes and agents, rising use of combination therapy, and evolving clinical guidance have fundamentally improved the outlook for people with this condition. However, there is still no cure for diabetes, but losing weight, eating healthy food, and being active can really help. Other things you can do to help include taking medicine as prescribed, getting diabetes self-management education and support, and making and keeping healthcare appointments.
 
