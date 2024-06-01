@@ -14,8 +14,12 @@ https://docs.google.com/document/d/1Qq7B4UZuYO--Y4lo7M5itMpAUHcQjah2tZRD1FOx5Q8/
 Sprint 1: Deliverables ( See Google Drive)
 https://docs.google.com/document/d/1qbFLLd-yNodoMxrycrm29KxqD2oDXEzEa2yswZDDFw4/edit
 
+Sprint 2: Deliverable (See Google Drive)
+https://docs.google.com/document/d/1uHtWrQUwLL61G3zWSVwopTAL_J_QkDWGv13rA4EK07E/edit?usp=sharing
+
+===================================================================
 Overall Purpose of this Study
-In this study, I am investigating the use of prescriptions weight loss drugs and their relationship to early onset predictors of the disease, diabetes. The therapeuticcausalities and   strenghts and differences.
+In this study, I am investigating the relationship between the sales and types of injectable weghtloss drugs and their relationship to comorbid factors of the disease, diabetes. The therapeutic causalities and strenghts and differences.
 
 Diabetes 
 
