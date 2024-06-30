@@ -17,6 +17,8 @@ https://docs.google.com/document/d/1qbFLLd-yNodoMxrycrm29KxqD2oDXEzEa2yswZDDFw4/
 Sprint 2: Deliverable (See Google Drive)
 https://docs.google.com/document/d/1uHtWrQUwLL61G3zWSVwopTAL_J_QkDWGv13rA4EK07E/edit?usp=sharing
 
+Sprint 3: Deliverable (See Google Drive)
+https://docs.google.com/document/d/1mKDWEXSCXRVxumQzdJLAExe-s6d9t1o1KepQ5tshqtE/edit
 =============================
 Overall Purpose of this Study
 In this study, I am investigating the relationship between the curent sales and projected sales of several types of injectable weghtloss drugs and their relationship to comorbid factors effecting the disease, diabetes. 
