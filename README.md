@@ -166,6 +166,9 @@ Obesity               0
 class                 0
 dtype: int64
 
+Sales Data from Weightloss Injectable Drugs
+Based on the research I have conducted, the following weight loss injectable drugs have shown marked sales and projected sales in the USA. The following graphs will show the current and projected sales.
+
 
 
 Risks
