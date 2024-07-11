@@ -64,7 +64,21 @@ Here are the injectable drugs: Wegovy, Ozempic, Semaglutide and Zepbound that we
 - Zepbound: Zepbound, also known as tirzepatide, is a prescription drug used for weight loss in certain adults. It is a glucose-dependent insulinotropic polypeptide (GIP) receptor and glucagon-like peptide-1 (GLP-1) receptor agonist, which works by decreasing appetite and slowing the movement of food from the stomach into the small intestine.
 
 
+Wegovy, Ozempic, Semaglutide and Zepbound
 
+ Approved Uses:
+ Ozempic (semaglutide): Approved by the FDA for type 2 diabetes and to help prevent serious
+ cardiovascular events such as heart attack or stroke in people with type 2 diabetes and cardiovascular
+ disease.
+ Seglemetatide (semaglutide): This is another name for semaglutide, the active ingredient in
+ Ozempic. The usage data would be the same as for Ozempic.
+ Zepbound (tirzepatide): Approved by the FDA for weight loss in adults with obesity or who are
+ overweight and have weight-related medical problems.
+ Wegovy (semaglutide): Approved by the FDA for chronic weight management in adults with an
+ initial body mass index (BMI) of 30 kg/m2 or greater (obesity) or 27 kg/m2 or greater (overweight) in
+ the presence of at least one weight-related comorbid condition.
+
+#Needs to be updated
 EDA
 
 Diabetes Early-Onset dataset
@@ -113,22 +127,22 @@ Summary Statistics
   </tbody>
 </table>
 </div>
-
+#Needs to be Updated
 by Age (histogram)
 
 ![image](https://github.com/deebaby001/Weightloss-Drugs-and-Their-Impact-on-Diabetes/assets/14750340/b0fabe26-9002-442d-89be-7fdc903a0393)
 
-
+#Needs to be updated
 by Gender (bar)
 
 ![image](https://github.com/deebaby001/Weightloss-Drugs-and-Their-Impact-on-Diabetes/assets/14750340/d9a6f2bb-d76e-4892-b311-1e1541bfc30d)
 
-
+#Needs to be Updated
 by Age + Gender (boxplot)
 
 ![image](https://github.com/deebaby001/Weightloss-Drugs-and-Their-Impact-on-Diabetes/assets/14750340/33aff619-c067-4679-a22a-59ceedde566c)
 
-
+#Needs to be updated
 Data Transformations
 
 Null values
@@ -161,3 +175,4 @@ Resources
 How to cite a source: Author, A. (Year). Title of the data set (Version number) [Data set]. Publisher Name.
 1. Kumar, A. (2020). https://www.kaggle.com/datasets/singhakash/early-stage-diabetes-risk-prediction-datasets?resource=download&select=diabetes_data_upload.csv. Kaggle.
    
+2.  Dyslipidemia: Everything you need to know. https://www.medicalnewstoday.com/articles/321844
