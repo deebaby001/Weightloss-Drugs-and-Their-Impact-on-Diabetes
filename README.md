@@ -78,93 +78,227 @@ Wegovy, Ozempic, Semaglutide and Zepbound
  initial body mass index (BMI) of 30 kg/m2 or greater (obesity) or 27 kg/m2 or greater (overweight) in
  the presence of at least one weight-related comorbid condition.
 
-#Needs to be updated
+
 EDA
 
-Diabetes Early-Onset dataset
+Diabetes dataset
 Summary Statistics
 
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
+      <th>Diabetes_012</th>
+      <th>HighBP</th>
+      <th>HighChol</th>
+      <th>CholCheck</th>
+      <th>BMI</th>
+      <th>Smoker</th>
+      <th>Stroke</th>
+      <th>HeartDiseaseorAttack</th>
+      <th>PhysActivity</th>
+      <th>Fruits</th>
+      <th>...</th>
+      <th>AnyHealthcare</th>
+      <th>NoDocbcCost</th>
+      <th>GenHlth</th>
+      <th>MentHlth</th>
+      <th>PhysHlth</th>
+      <th>DiffWalk</th>
+      <th>Sex</th>
       <th>Age</th>
+      <th>Education</th>
+      <th>Income</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th>count</th>
-      <td>520.000000</td>
+      <th>0</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>40.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>5.0</td>
+      <td>18.0</td>
+      <td>15.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>9.0</td>
+      <td>4.0</td>
+      <td>3.0</td>
     </tr>
     <tr>
-      <th>mean</th>
-      <td>48.028846</td>
+      <th>1</th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>25.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>...</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>3.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>7.0</td>
+      <td>6.0</td>
+      <td>1.0</td>
     </tr>
     <tr>
-      <th>std</th>
-      <td>12.151466</td>
+      <th>2</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>28.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>5.0</td>
+      <td>30.0</td>
+      <td>30.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>9.0</td>
+      <td>4.0</td>
+      <td>8.0</td>
     </tr>
     <tr>
-      <th>min</th>
-      <td>16.000000</td>
+      <th>3</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>27.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>11.0</td>
+      <td>3.0</td>
+      <td>6.0</td>
     </tr>
     <tr>
-      <th>25%</th>
-      <td>39.000000</td>
-    </tr>
-    <tr>
-      <th>50%</th>
-      <td>47.500000</td>
-    </tr>
-    <tr>
-      <th>75%</th>
-      <td>57.000000</td>
-    </tr>
-    <tr>
-      <th>max</th>
-      <td>90.000000</td>
+      <th>4</th>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>24.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>...</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>2.0</td>
+      <td>3.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>11.0</td>
+      <td>5.0</td>
+      <td>4.0</td>
     </tr>
   </tbody>
 </table>
+<p>5 rows × 22 columns</p>
 </div>
-#Needs to be Updated
-by Age (histogram)
 
-![image](https://github.com/deebaby001/Weightloss-Drugs-and-Their-Impact-on-Diabetes/assets/14750340/b0fabe26-9002-442d-89be-7fdc903a0393)
 
-#Needs to be updated
-by Gender (bar)
-
-![image](https://github.com/deebaby001/Weightloss-Drugs-and-Their-Impact-on-Diabetes/assets/14750340/d9a6f2bb-d76e-4892-b311-1e1541bfc30d)
-
-#Needs to be Updated
 by Age + Gender (boxplot)
 
-![image](https://github.com/deebaby001/Weightloss-Drugs-and-Their-Impact-on-Diabetes/assets/14750340/33aff619-c067-4679-a22a-59ceedde566c)
+![alt text](image-1.png)
 
-#Needs to be updated
+#Explanation of Data: This data represents the quadrants representative of the following age groups: 1: 31 to 40 y, 2: 41–50 y, 3: 51–60 y, 4: 61–70 y, 5: 71–80 y,
+ 6: >81 y
+
+#Data based on Sex ( 0.0 = Males, 1.0 = Females)
+Sex
+0.0    141974
+1.0    111706
+Name: count, dtype: int64
+
+#BMI using SNS
+![alt text](image-2.png)
+
+
 Data Transformations
 
 Null values
-
-Age                   0
-Gender                0
-Polyuria              0
-Polydipsia            0
-sudden weight loss    0
-weakness              0
-Polyphagia            0
-Genital thrush        0
-visual blurring       0
-Itching               0
-Irritability          0
-delayed healing       0
-partial paresis       0
-muscle stiffness      0
-Alopecia              0
-Obesity               0
-class                 0
+Diabetes_012            0
+HighBP                  0
+HighChol                0
+CholCheck               0
+BMI                     0
+Smoker                  0
+Stroke                  0
+HeartDiseaseorAttack    0
+PhysActivity            0
+Fruits                  0
+Veggies                 0
+HvyAlcoholConsump       0
+AnyHealthcare           0
+NoDocbcCost             0
+GenHlth                 0
+MentHlth                0
+PhysHlth                0
+DiffWalk                0
+Sex                     0
+Age                     0
+Education               0
+Income                  0
 dtype: int64
+
+
+
+
 
 Sales Data from Weightloss Injectable Drugs
 Based on the research I have conducted, the following weight loss injectable drugs have shown marked sales and projected sales in the USA. The following graphs will show the current and projected sales.
